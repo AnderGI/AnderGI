@@ -10,7 +10,44 @@
 👉 I can help creating software for back-end and/or front-end layers (hello js world).
 
 
+### The way I send my CV around the Internet
+```
+POST http:your_domain:your_favourite_port/employees
+Content-type: application/json
 
+{
+    "user": {
+        "full-name":"Ander Gutierrez",
+        "github-profile":"https://github.com/AnderGI",
+        "linkedin-profile":""
+    },
+    "programming-languages":  ["JavaScript", "Java"],
+    "technologies": {
+        "back-end":["NodeJS", "Express", "TypeScript", "SpringBoot"],
+        "databases": {
+            "SQL":["OracleSQL", "SQLServer", "MySQL"],
+            "NoSQL":["MongoDB"]
+        },
+        "front-end": ["Angular"],
+        "dev-ops":["Docker"],
+        "to-learn": ["Solidity and Web3 dev"]
+    },
+    "overall-personal-preferences": ["NodeJS", "TypeScript"],
+    "student-in":{
+        "online-platforms": [
+            {
+                "name" : "The Odin Project"
+            },
+            {
+                "name": "CodelyTv"
+            },
+            {
+                "name": "FreeCodeCamp"
+            }
+        ]
+    }
+}
+```
 
 <!--
 **AnderGI/AnderGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
