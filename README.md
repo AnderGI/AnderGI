@@ -1,6 +1,6 @@
 # Hi everyone 🤘 Ander Gutierrez here!
 
-> Curious by nature, I like to push myself beyond my current knowledge. Challenges may be fierce, but with the drive knowledge-hunger gives, a challenge may eventually be a new unexplored road. It shouldn't be easy, but at leat, is funny[^1].
+> Curious by nature, I like to push myself beyond my current knowledge. Challenges may be fierce, but with the drive knowledge-hunger gives, a challenge may eventually be a new unexplored road. It shouldn't be easy, but at leat, is funny. [^1]
 [^1]: Random Instagram motivational account. 
 
 Some self traits 🙌 (not the CV must have ones):
